@@ -4,13 +4,13 @@
 https://github.com/sejr/vue-bootstrap/
 
 ## Set up a template
-`
+```
 $ npm install -g vue-cli
 $ vue init sejr/vue-bootstrap my-project
 $ cd my-project
 $ npm install
 $ npm run dev
-`
+```
 
 ## Install vuex
 `$ npm install --save vuex`
